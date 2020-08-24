@@ -1,2 +1,2 @@
-Lorem Ipsum
+Lorem Lipsum
 feature 1
